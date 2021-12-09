@@ -1,0 +1,12 @@
+.main-button{
+  background-color:#F53881;
+  padding: 5px 10px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.main-button:hover{
+  color: white;
+  text-decoration: none;
+}
